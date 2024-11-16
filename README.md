@@ -7,8 +7,8 @@ This repository contains various algorithms and data structures implemented in J
 - [Bubble Sort](bubbleST.java)
 - Merge Sort
 - Quick Sort
-- Insertion Sort
-- Selection Sort
+- [Insertion Sort](insertionST.java)
+- [Selection Sort](selectionST.java)
 
 ## Search Algorithms
 
